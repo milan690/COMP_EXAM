@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.bmicalculator"
+    namespace = "com.example.caloriecalculator"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.bmicalculator"
+        applicationId = "com.example.caloriecalculator"
         minSdk = 24
         targetSdk = 34
         versionCode = 1

@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "BMI Calculator"
+rootProject.name = "Calorie Counter"
 include(":app")
  
